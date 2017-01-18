@@ -1,0 +1,17 @@
+
+- arrows are now linking between entities with an othognal way.
+- user can select a certain jog by clicking on the jog and drag it to change it's position
+- There's a limit to where a specific jog can be gragged, for example the jog can not go over the upper limit: the target's y coord. If the jog is dragged over the boundry, it will be reset to default.
+- user can use scrollwheel to zoom in/out the canvas, and uses the scrollbar in the scollpane to re-navigate the target sight.
+- user can use ctrl+[/ctrl+] to zoom in/out the canvas, and uses the scrollbar in the scollpane to re-navigate the target sight.
+- Zoom is limited from 30% - 500%
+
+Enhancement
+- add a zoom in and zoom out button for a easier way to zoom
+- redesign the button panel and add icons to each buttons
+- add a zoom indicator to show the current zoom percentage
+- user can now choose from dashed arrow and staright line arrow from create arrow menu
+- user can choose the color of the entity when create entities. 
+
+
+Icon made by [Madebyoliver] from www.flaticon.com 
