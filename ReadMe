@@ -6,7 +6,6 @@
 - user can use ctrl+[/ctrl+] to zoom in/out the canvas, and uses the scrollbar in the scollpane to re-navigate the target sight.
 - Zoom is limited from 30% - 500%
 
-Enhancement
 - add a zoom in and zoom out button for a easier way to zoom
 - redesign the button panel and add icons to each buttons
 - add a zoom indicator to show the current zoom percentage
